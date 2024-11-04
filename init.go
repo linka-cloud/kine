@@ -1,4 +1,4 @@
-package endpoint
+package main
 
 import (
 	// Import all the default drivers
